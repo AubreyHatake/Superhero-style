@@ -1,0 +1,22 @@
+* {
+    margin: 10px;
+    padding: 5px;
+}
+
+.dc {
+    border-style: solid;
+    border-color: rgb(27, 203, 234);
+    font-family: 'Gill Sans';
+    font-size: large;
+}
+
+h1:hover {
+    box-shadow: 0 0 50px 15px #640f6d;
+}
+
+
+.marvel {
+    border-style: solid;
+    border-color: red;
+    font-size: large;
+}
